@@ -8,6 +8,9 @@
     font-size: 17px;
 }
 
-.carousel-inner {
-	height: 550px;
+.carousel_section img{
+    height: 600px;
 }
+/* .carousel-inner {
+	height: 550px;
+} */
