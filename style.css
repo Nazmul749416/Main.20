@@ -1,0 +1,13 @@
+.header_section{
+    background: #d9ebf8;
+}
+.navbar-brand img{
+    width: 40px;
+}
+.footer_section p{
+    font-size: 17px;
+}
+
+.carousel-inner {
+	height: 550px;
+}
